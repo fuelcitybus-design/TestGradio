@@ -55,3 +55,4 @@ paddleocr
 glob
 cv2
 openpyxl
+logging
