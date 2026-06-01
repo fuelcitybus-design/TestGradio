@@ -51,3 +51,6 @@ typing-inspection==0.4.2
 typing_extensions==4.15.0
 uvicorn==0.48.0
 virtualenv==21.3.3
+paddleocr
+glob
+cv2
