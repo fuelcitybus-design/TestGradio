@@ -54,3 +54,4 @@ virtualenv==21.3.3
 paddleocr
 glob
 cv2
+openpyxl
