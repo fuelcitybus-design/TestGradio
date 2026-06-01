@@ -52,6 +52,6 @@ typing_extensions==4.15.0
 uvicorn==0.48.0
 virtualenv==21.3.3
 paddleocr
-cv2
+opencv-python
 openpyxl
 logging
